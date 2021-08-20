@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumarlava0007
 - 👀 I’m interested in SOFTWARE
 - 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on GOOD TEAM.
+- 💞️ I’m looking to collaborate with GOOD TEAM.
 - 📫 Reach me - lavakumarnandam@gmail.com
 
 <!---
